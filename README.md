@@ -1,7 +1,7 @@
 # IPL-Analysis-2008-2020
 
 This is a dashboard made on tableau for the analysis of IPL from 2008 to 2010 
-Here we can use drop down and see year/session wise analysis
+Here we can use drop down and see year/season wise analysis
 Wherein one can know following informations like:
 # Title Winner
 # Orange cap winner
